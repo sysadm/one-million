@@ -1,3 +1,9 @@
+# KISS approach
+
+Generally I don't like to reinvent the wheel, so I try to use more interesting and well tested solution which was created by someone else.
+
+## First solution - using numbers_and_words gem, with localization. 
+
 # Algorithms
 
 This section is more of a problem-solving exercise in code. The task is
