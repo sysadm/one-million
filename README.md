@@ -4,7 +4,9 @@ Generally I don't like to reinvent the wheel, so I try to use more interesting a
 
 ## First solution - using numbers_and_words gem, with localization, really flexible.
 
-## Second one string solution - using humanize gem, fastest.
+## Second one-string-solution - using humanize gem, fastest but less flexible.
+
+## Third one-string-solution - using to_words gem.
 
 # Algorithms
 

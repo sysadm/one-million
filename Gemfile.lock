@@ -15,6 +15,7 @@ GEM
       activesupport
       i18n
     thread_safe (0.3.5)
+    to_words (1.1.0)
     tzinfo (1.2.2)
       thread_safe (~> 0.1)
 
@@ -24,6 +25,7 @@ PLATFORMS
 DEPENDENCIES
   humanize
   numbers_and_words
+  to_words
 
 BUNDLED WITH
    1.10.6
