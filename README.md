@@ -2,7 +2,9 @@
 
 Generally I don't like to reinvent the wheel, so I try to use more interesting and well tested solution which was created by someone else.
 
-## First solution - using numbers_and_words gem, with localization. 
+## First solution - using numbers_and_words gem, with localization, really flexible.
+
+## Second one string solution - using humanize gem, fastest.
 
 # Algorithms
 
